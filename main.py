@@ -12,7 +12,7 @@
      * actively using python at that time and in my opinion this    *
      * was a great success to achieve what I aimed at beginning.    *
      ****************************************************************  """
-#modules
+#module
 import math,random,time
 from pyray import *
 
